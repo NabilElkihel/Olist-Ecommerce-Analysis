@@ -130,7 +130,6 @@ The report includes:
 - Introduction
 - Dataset Description
 - Database Design
-- SQL Analysis
 - Visualizations
 - Findings
 - Conclusion
